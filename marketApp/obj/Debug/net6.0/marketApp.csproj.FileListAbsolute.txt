@@ -1,0 +1,15 @@
+C:\Users\AyaTaha\source\repos\market\marketApp\bin\Debug\net6.0\marketApp.exe
+C:\Users\AyaTaha\source\repos\market\marketApp\bin\Debug\net6.0\marketApp.deps.json
+C:\Users\AyaTaha\source\repos\market\marketApp\bin\Debug\net6.0\marketApp.runtimeconfig.json
+C:\Users\AyaTaha\source\repos\market\marketApp\bin\Debug\net6.0\marketApp.dll
+C:\Users\AyaTaha\source\repos\market\marketApp\bin\Debug\net6.0\marketApp.pdb
+C:\Users\AyaTaha\source\repos\market\marketApp\obj\Debug\net6.0\marketApp.csproj.AssemblyReference.cache
+C:\Users\AyaTaha\source\repos\market\marketApp\obj\Debug\net6.0\marketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AyaTaha\source\repos\market\marketApp\obj\Debug\net6.0\marketApp.AssemblyInfoInputs.cache
+C:\Users\AyaTaha\source\repos\market\marketApp\obj\Debug\net6.0\marketApp.AssemblyInfo.cs
+C:\Users\AyaTaha\source\repos\market\marketApp\obj\Debug\net6.0\marketApp.csproj.CoreCompileInputs.cache
+C:\Users\AyaTaha\source\repos\market\marketApp\obj\Debug\net6.0\marketApp.dll
+C:\Users\AyaTaha\source\repos\market\marketApp\obj\Debug\net6.0\refint\marketApp.dll
+C:\Users\AyaTaha\source\repos\market\marketApp\obj\Debug\net6.0\marketApp.pdb
+C:\Users\AyaTaha\source\repos\market\marketApp\obj\Debug\net6.0\marketApp.genruntimeconfig.cache
+C:\Users\AyaTaha\source\repos\market\marketApp\obj\Debug\net6.0\ref\marketApp.dll

@@ -10,8 +10,20 @@ Person p = new()
 };
 Console.WriteLine(p.Name);
 
-static void JoinMyCharArray(char[] mine)
-{
-    Console.WriteLine( string.Join(' ', mine));
+var requairedItemCount = 10;
+var userName = "user";
+var password = "EME#int123$";
+GetConnectionLink(userName, password, requairedItemCount);
 
+
+//Console.WriteLine( string.Join(' ', mine));
+
+string GetConnectionLink(string userName, string password, int requairedItemCount)
+{
+    return $"http://mylink?user={userName}&password={password}&items={requairedItemCount}";
+}
+
+void JoinMyCharArray(char[] mine)
+{
+    
 }

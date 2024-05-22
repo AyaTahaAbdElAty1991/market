@@ -1,0 +1,3 @@
+﻿C:\Users\AyaTaha\source\repos\market\marketApp\Person.cs
+C:\Users\AyaTaha\source\repos\market\marketApp\Program.cs
+C:\Users\AyaTaha\source\repos\market\marketApp\.editorconfig

@@ -1,0 +1,7 @@
+organization=ayatahaabdelaty1991
+projectKey=AyaTahaAbdElAty1991_market
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.54533
+dashboardUrl=https://sonarcloud.io/dashboard?id=AyaTahaAbdElAty1991_market
+ceTaskId=AY-fvLXd9lwn5mILBO-U
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY-fvLXd9lwn5mILBO-U

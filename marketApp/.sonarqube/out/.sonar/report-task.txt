@@ -1,7 +1,7 @@
 organization=ayatahaabdelaty1991
 projectKey=AyaTahaAbdElAty1991_market
 serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.54533
+serverVersion=8.0.0.54555
 dashboardUrl=https://sonarcloud.io/dashboard?id=AyaTahaAbdElAty1991_market
-ceTaskId=AY-fxwYvsCUUMEN-DNUi
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY-fxwYvsCUUMEN-DNUi
+ceTaskId=AY-f3bL5P-YFnif4SpTd
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY-f3bL5P-YFnif4SpTd

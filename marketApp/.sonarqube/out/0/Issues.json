@@ -96,48 +96,6 @@
           }
         },
         {
-          "ruleId": "S1186",
-          "level": "warning",
-          "message": "Add a nested comment explaining why this method is empty, throw a 'NotSupportedException' or complete the implementation.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/AyaTaha/source/repos/market/marketApp/Program.cs",
-                "region": {
-                  "startLine": 26,
-                  "startColumn": 6,
-                  "endLine": 26,
-                  "endColumn": 21
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S108",
-          "level": "warning",
-          "message": "Either remove or fill this block of code.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/AyaTaha/source/repos/market/marketApp/Program.cs",
-                "region": {
-                  "startLine": 27,
-                  "startColumn": 1,
-                  "endLine": 29,
-                  "endColumn": 2
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S3241",
           "level": "warning",
           "message": "Change return type to 'void'; not a single caller uses the returned value.",
@@ -160,40 +118,6 @@
         }
       ],
       "rules": {
-        "S108": {
-          "id": "S108",
-          "shortDescription": "Nested blocks of code should not be left empty",
-          "fullDescription": "An empty code block is confusing. It will require some effort from maintainers to determine if it is intentional or indicates the implementation is incomplete.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-108",
-          "properties": {
-            "category": "Major Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "MainSourceScope",
-              "TestSourceScope",
-              "SonarWay"
-            ]
-          }
-        },
-        "S1186": {
-          "id": "S1186",
-          "shortDescription": "Methods should not be empty",
-          "fullDescription": "An empty method is generally considered bad practice and can lead to confusion, readability, and maintenance issues. Empty methods bring no functionality and are misleading to others as they might think the method implementation fulfills a specific and identified requirement.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1186",
-          "properties": {
-            "category": "Critical Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "MainSourceScope",
-              "TestSourceScope",
-              "SonarWay"
-            ]
-          }
-        },
         "S125": {
           "id": "S125",
           "shortDescription": "Sections of code should not be commented out",

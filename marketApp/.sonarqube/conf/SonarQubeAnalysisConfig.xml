@@ -6,7 +6,7 @@
   <SonarScannerWorkingDirectory>C:\Users\AyaTaha\source\repos\market\marketApp</SonarScannerWorkingDirectory>
   <HasBeginStepCommandLineCredentials>false</HasBeginStepCommandLineCredentials>
   <SonarQubeHostUrl>https://sonarcloud.io</SonarQubeHostUrl>
-  <SonarQubeVersion>8.0.0.54533</SonarQubeVersion>
+  <SonarQubeVersion>8.0.0.54555</SonarQubeVersion>
   <SonarProjectKey>AyaTahaAbdElAty1991_market</SonarProjectKey>
   <AdditionalConfig>
     <ConfigSetting Id="BuildUri" />
@@ -173,7 +173,7 @@
 Automatic Analysis will not be available between 07:00 CET and 09:00 CET</Property>
     <Property Name="sonar.maintenance_mode.link">https://community.sonarsource.com/t/sonarcloud-autoscan-maintenance-september-28th-07-00-and-09-00-cet/101442</Property>
     <Property Name="sonar.maintenance_mode.start_date">2023-09-28T09:10:00:00.000+01:00</Property>
-    <Property Name="sonar.core.startTime">5/21/2024 12:16:42 PM</Property>
+    <Property Name="sonar.core.startTime">5/22/2024 1:09:24 PM</Property>
   </ServerSettings>
   <LocalSettings>
     <Property Name="sonar.host.url">https://sonarcloud.io</Property>

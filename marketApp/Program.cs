@@ -25,5 +25,5 @@ string GetConnectionLink(string userName, string password, int requairedItemCoun
 
 void JoinMyCharArray(char[] mine)
 {
-    // Method intentionally left empty.
+ 
 }

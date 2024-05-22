@@ -17,6 +17,7 @@ GetConnectionLink(userName, password, requairedItemCount);
 
 
 //Console.WriteLine( string.Join(' ', mine));
+//Console.WriteLine( string.Join(' ', any text));
 
 string GetConnectionLink(string userName, string password, int requairedItemCount)
 {
